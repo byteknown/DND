@@ -1,0 +1,19 @@
+{
+  "Author": "Devils Lair",
+  "Name": "DL DND",
+  "InternalName": "DLDND",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Open the main window using /dnd",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "player",
+    "venues"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A plugin for DND!",
+  "AcceptsFeedback": true
+}
