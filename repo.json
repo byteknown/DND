@@ -4,7 +4,7 @@
         "Name": "DL DND",
         "Description": "A dnd plugin!",
         "InternalName": "DLDND",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
         "RepoUrl": "https://github.com/byteknown/DND",
         "ApplicableVersion": "any",
         "Tags": [
