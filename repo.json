@@ -14,11 +14,11 @@
             "discord"
         ],
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/byteknown/DND/raw/main/DND/latest.zip",
+        "DownloadLinkInstall": "https://github.com/byteknown/DND/raw/main/DLDND/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/byteknown/DND/raw/main/DND/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/byteknown/DND/raw/main/DND/latest.zip",
+        "DownloadLinkTesting": "https://github.com/byteknown/DND/raw/main/DLDND/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/DND/raw/main/DLDND/latest.zip",
         "LastUpdated": "07022024"
     }
 
