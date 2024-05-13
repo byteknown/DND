@@ -1,0 +1,25 @@
+[
+    {
+        "Author": "Moonhell",
+        "Name": "DL DND",
+        "Description": "A dnd plugin!",
+        "InternalName": "DLDND",
+        "AssemblyVersion": "0.0.0.1",
+        "RepoUrl": "https://github.com/byteknown/DND",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "chocobo",
+            "racing",
+            "minigames",
+            "discord"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/byteknown/DND/raw/main/DND/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/byteknown/DND/raw/main/DND/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/byteknown/DND/raw/main/DND/latest.zip",
+        "LastUpdated": "07022024"
+    }
+
+]
